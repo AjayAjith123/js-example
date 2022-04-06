@@ -1,0 +1,35 @@
+/* .table_1{
+    background-color:purple;
+    height: 50px;width: 
+    200px;
+} */
+
+
+body{
+
+    background-color: silver;
+    background-image: url("web2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    color: brown;
+    border: 10px;
+}
+.item{
+    text-indent: 100px;
+    color:black;
+    background-color: rgb(213, 216, 213);
+    
+
+}
+.reference{
+    text-indent: 200px;
+    color: white;
+    background-color:lightcoral;
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
