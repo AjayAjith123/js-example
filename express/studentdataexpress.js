@@ -28,5 +28,5 @@ app.post("/student", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("server runs on 4000");
+  console.log("server runs on 3000");
 });
